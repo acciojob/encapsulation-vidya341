@@ -10,7 +10,7 @@ public class RWOnly {
         this.name = name;
 
     }
-    public String getname()
+    public String getName()
     {
         return name;
     }

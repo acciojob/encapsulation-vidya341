@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         RWOnly obj = new RWOnly();
         obj.setName("name");
-        System.out.println(obj.getname());
+        System.out.println(obj.getName());
 
 
 
